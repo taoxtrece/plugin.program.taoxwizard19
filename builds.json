@@ -2,35 +2,11 @@
 	"builds": [
 		{
 			"name": "Dark Ocean",
-			"version": "2021.04.24",
-			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard/releases/download/build5/darkocean.zip",
+			"version": "2022.01.31",
+			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build/solovod19.zip",
 			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean6.jpg",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/fanart.jpg",
-			"description": "Para tvbox con 4GB de Ram. Actualizada videoteca, dependencias y otros ajustes.
-Nuevos nodos en las secciones Películas y Series, así como nuevas smartplaylist (Canales en Android TV).
-A partir de ahora puede actualizar los nodos de Películas 4K, HD,... desde las secciones Películas y Series así como tambíen desde el submenú VIDEOTECA/Exportar Drives. Seleccione el nodo actualizar y pulse en Exportar.
-Cambiado proveedor de clima."
-		},
-		{
-			"name": "Slim Panda",
-			"version": "2021.04.24",
-			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard/releases/download/build2/slimpanda.zip",
-			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/slimpanda06.jpg",
-			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/fanart.jpg",
-			"description": "Para tvbox con 2GB de Ram. Actualizada videoteca, dependencias y otros ajustes.
-Nuevos nodos en las secciones Películas y Series, así como nuevas smartplaylist (Canales en Android TV).
-A partir de ahora puede actualizar los nodos de Películas 4K, HD,... desde las secciones Películas y Series así como tambíen desde el submenú VIDEOTECA/Exportar Drives. Seleccione el nodo actualizar y pulse en Exportar.
-Cambiado proveedor de clima."
-		},
-		{
-			"name": "Caster",
-			"version": "2021.04.24",
-			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard/releases/download/build3/caster.zip",
-			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/caster2.jpg",
-			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/fanart.jpg",
-			"description": "Para móviles o tablets Android. Actualizada videoteca, dependencias y otros ajustes.
-Para móviles y tablets Android con Kodi o Fork 32 bits.
-Comparte pantalla a cualquier dispositivo con Chromecast o DLNA, es necesario tener instalado mínimo una de las siguientes aplicaciones Web Video Caster, AllCast o Local Cast."
+			"description": "Test Release"
 		}
 	]
 }
