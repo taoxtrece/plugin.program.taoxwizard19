@@ -7,6 +7,14 @@
 			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/solovod.png",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/solovod.png",
 			"description": "Test Release"
+		},
+		{
+			"name": "Dark Ocean 19",
+			"version": "0.0",
+			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build2/darkocean19.zip",
+			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean9.png",
+			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/solovod.png",
+			"description": "Test Release"
 		}
 	]
 }
