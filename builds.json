@@ -2,19 +2,19 @@
 	"builds": [
 		{
 			"name": "Solo VOD 19",
-			"version": "0.0",
+			"version": "0.1",
 			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build/solovod19.zip",
 			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/solovod.png",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/solovod.png",
-			"description": "Test Release"
+			"description": "Lanzamiento"
 		},
 		{
 			"name": "Dark Ocean 19",
-			"version": "0.0",
+			"version": "0.1",
 			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build2/darkocean19.zip",
 			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean9.png",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/solovod.png",
-			"description": "Test Release"
+			"description": "Lanzamiento"
 		}
 	]
 }
