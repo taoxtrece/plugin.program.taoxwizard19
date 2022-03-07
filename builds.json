@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Dark Ocean 19",
-			"version": "0.1",
+			"version": "0.2",
 			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build2/darkocean19.zip",
 			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean19.png",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean19.png",
-			"description": "Lanzamiento"
+			"description": "Añadido DAZN con selección de cuenta española o alemana y nuevas cuentas para Disney+."
 		}
 	]
 }
