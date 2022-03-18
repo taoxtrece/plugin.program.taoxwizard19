@@ -4,7 +4,7 @@
 			"name": "Solo VOD 19",
 			"version": "0.2",
 			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build/solovod19.zip",
-			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.png",
+			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.gif",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.png",
 			"description": "Añadido DAZN, nuevas cuentas de Disney+ y actualizada videoteca."
 		},
@@ -12,8 +12,16 @@
 			"name": "Dark Ocean 19",
 			"version": "0.2",
 			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build2/darkocean19.zip",
-			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean19.png",
+			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean19.gif",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean19.png",
+			"description": "Añadido DAZN con selección de cuenta española o alemana y nuevas cuentas para Disney+."
+		},
+		{
+			"name": "Caster 19",
+			"version": "0.1",
+			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build3/caster19.zip",
+			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/caster19.gif",
+			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/caster19.png",
 			"description": "Añadido DAZN con selección de cuenta española o alemana y nuevas cuentas para Disney+."
 		}
 	]
