@@ -2,11 +2,11 @@
 	"builds": [
 		{
 			"name": "Solo VOD 19",
-			"version": "0.2",
+			"version": "0.3",
 			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build/solovod19.zip",
 			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.gif",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.png",
-			"description": "Añadido DAZN, nuevas cuentas de Disney+ y actualizada videoteca."
+			"description": "Implemententada la búsqueda global en la videoteca, Disney+ y HBO Max, en el buscador en el submenú de favoritos (icono de la estrella), nuevas cuentas para las plataformas y videoteca, nueva sección en el menú principal para HBO Max."
 		},
 		{
 			"name": "Dark Ocean 19",
