@@ -2,7 +2,7 @@
 	"builds": [
 		{
 			"name": "Solo VOD 19",
-			"version": "0.3",
+			"version": "0.4",
 			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build/solovod19.zip",
 			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.gif",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.png",
@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "Dark Ocean 19",
-			"version": "0.2",
+			"version": "0.3",
 			"url": "https://github.com/taoxtrece/plugin.program.taoxwizard19/releases/download/build2/darkocean19.zip",
 			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean19.gif",
 			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/darkocean19.png",
-			"description": "Añadido DAZN con selección de cuenta española o alemana y nuevas cuentas para Disney+."
+			"description": "Añadido Elementum, necesario instalar la apk Elementum Service, actualizados los addons. Nuevos arreglos en la interfaz. Nuevas cuentas para las plataformas y nueva sección en el menú principal para HBO Max."
 		},
 		{
 			"name": "Caster 19",
